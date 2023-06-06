@@ -1,0 +1,26 @@
+.Banner{
+    width: 90%;
+    height: 180px;
+    margin: auto;
+    background-color: blue;
+    margin-top: 20px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgiAJ6pB6r3XEpbR7gQ6XidgRbi02eHnQ3Q&usqp=CAU);
+}
+.centered{
+    position: absolute;
+  top: 27%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.centerBtn{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    position: absolute;
+    top: 34%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    border: none;
+    height: 30px;
+    background-color: green;
+}

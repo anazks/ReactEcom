@@ -1,0 +1,56 @@
+.Products{
+    display: flex;
+    margin: auto;
+    width: 95%;
+    height: 600px;
+    background-color: rgb(43, 38, 38);
+    margin-top: 30px;
+    border-radius: 30px;
+}
+.Item{
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 50px;
+    width: 25%;
+    height: 500Px;
+    background-color: rgb(26, 28, 29);
+}
+.Image{
+     width:95%;
+     border-radius: 10px;
+     padding: 5px;
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+     height: 50%;
+}
+.ItemBtn{
+    width: 35%;
+    height: 45px;
+   margin-left: 25px;
+    background-color: rgb(238, 255, 0);
+    color: black;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    border-radius: 10px;
+}
+.ItemBtn1{
+    width: 45%;
+    height: 45px;
+   margin-left: 10px;
+    background-color: rgb(238, 255, 0);
+    color: black;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    border-radius: 10px;
+}
+.ItemName{
+    color: aliceblue;
+    text-align: center;
+}
+.ItemPrice{
+    color: aliceblue;
+    text-align: center;
+}
